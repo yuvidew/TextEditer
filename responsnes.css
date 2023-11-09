@@ -1,0 +1,14 @@
+@media (max-width : 992px){
+    .theNavBar{
+        position: absolute;
+        z-index: 6;
+        display: none;
+        width: 85%;
+    }
+
+    .theNavBar .row > .col-lg-2,
+    .theNavBar .row > .col-lg-4{
+        margin-bottom: 1rem !important;
+        border-right: none !important;
+    }
+}

@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+.thelogoBox img{
+    width: 3rem;
+}
+
+.thelogoBox h1{
+    font-size: 1.8rem;
+}
+
+.thelogoBox h1 span{
+    color: #0479d9;
+}
+
+.theheaderbtn{
+    border-radius: .2rem;
+    padding: .3rem .8rem;
+    color: #fff;
+
+}
+
+.theheaderbtn h3{
+    margin-top: .2rem;
+    font-size: 1.2rem;
+}
+
+.theheaderbtn img{
+    width: 1rem;
+}
+
+.theH4{
+    font-size: 1.3rem;
+    color: #5a5b5d;
+    text-transform: capitalize;
+}
+
+.toolBox{
+    margin-top: .6rem;
+}
+
+.toolBox button{
+    padding: .3rem .4rem;
+    border-radius:.3rem ;
+    background: transparent;
+}
+
+.toolBox button:focus{
+    background-color: #0479d980;
+}
+
+.toolBox button img{
+    width: 1rem;
+}
+.theFontSele{
+    text-transform: capitalize;
+    width: 60%;
+    padding: .4rem .6rem;
+    border: .1px solid #5a5b5d;
+}
+
+.theFontSele2{
+    width: 20%;
+    padding: .4rem .6rem;
+    border: .1px solid #5a5b5d;
+}
+
+#theTextBox{
+    height: 28rem;
+    padding: .5rem;
+    overflow: auto;
+    border: .1px solid #dddddd;
+}
